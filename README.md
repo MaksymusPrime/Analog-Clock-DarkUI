@@ -8,3 +8,5 @@ Fast and easy project
 
 Another variant "Gradient clock"
 
+https://analogclocksec.netlify.app/
+
