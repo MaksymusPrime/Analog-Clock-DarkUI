@@ -10,3 +10,4 @@ Another variant "Gradient clock"
 
 https://analogclocksec.netlify.app/
 
+![Screenshot_4](https://github.com/MaksymusPrime/Analog-Clock-DarkUI/assets/121817168/553e03f2-3233-4dc4-ab49-60c04549261b)
